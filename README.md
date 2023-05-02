@@ -1,4 +1,7 @@
 # Expo Router Example
+#Live Link
+
+https://expo.dev/@feels/job-native-app?serviceType=classic&distribution=expo-go
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
